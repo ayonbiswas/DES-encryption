@@ -1,4 +1,5 @@
 **python implementation of DES encryption**
+
 -set the text to be encrypted at text
 -out is the decrypted text
 -Following parameters can be changed:
