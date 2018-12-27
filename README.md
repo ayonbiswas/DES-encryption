@@ -1,8 +1,8 @@
 **python implementation of DES encryption**
 
-*set the text to be encrypted at text
-*out is the decrypted text
-*Following parameters can be changed:
+* set the text to be encrypted at text
+* out is the decrypted text
+* Following parameters can be changed:
   -64 bit key at k
   - 64 bit initial permutation
   - 48 bit key permutation
