@@ -9,5 +9,6 @@
   - 56 bit key pre_permutation
   - 48 bit key final_permutation
   - sBox
+ 
 - set the text to be encrypted at text
 - out is the decrypted text
